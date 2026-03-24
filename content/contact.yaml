@@ -1,0 +1,24 @@
+headline: "Let's build something that feels right."
+
+links:
+  - icon: "mail"
+    label: "Email"
+    value: "your.email@example.com"
+    href: "mailto:your.email@example.com"
+
+  - icon: "linkedin"
+    label: "LinkedIn"
+    value: "linkedin.com/in/johan-ottosson-9861363a2"
+    href: "https://linkedin.com/in/johan-ottosson-9861363a2"
+
+  - icon: "github"
+    label: "GitHub"
+    value: "github.com/[your-handle]"
+    href: "https://github.com"
+
+  - icon: "file-text"
+    label: "Resume"
+    value: "View CV"
+    href: "/cv"
+
+footer: "© 2026 · Designed and built with care"

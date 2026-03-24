@@ -1,0 +1,22 @@
+meta:
+  title: "Johan Ottosson — UI/UX Designer & Developer"
+  description: "Product designer and developer specializing in interfaces that feel effortless."
+  url: "https://johanottosson.com"
+
+hero:
+  headline: "Crafting interfaces where precision meets purpose."
+  subline: "Product designer and developer specializing in interfaces that feel effortless."
+
+about:
+  paragraphs:
+    - "UI/UX designer and developer with 7+ years shipping products across AAA games, MMOs, live service platforms, and interactive media. I design and build — from Figma prototype to production code — without losing the human in between."
+    - "I've worked across the full stack of game and product development: programming UI systems in C++ and Unreal Engine, leading teams, owning product roadmaps, and releasing commercial developer tools through my own studio, Lone Lodge Studios."
+    - "Currently exploring product and design roles where craft, storytelling, and technology intersect. I believe great UI is invisible — it just feels right."
+  personal: "Outside work I lead one of EU's largest housing roleplay guilds in World of Warcraft — because building communities and crafting experiences doesn't stop when I close my IDE. I'm a film lover, a reader, a story-game obsessive, and a firm believer that AI should expand human creativity, not replace it. Dog dad."
+  interests:
+    - "FILMS"
+    - "BOOKS"
+    - "STORY GAMES"
+    - "WORLD-BUILDING"
+    - "AI"
+    - "WOW GUILD MASTER"

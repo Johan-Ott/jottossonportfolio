@@ -1,0 +1,45 @@
+title: "Building This Portfolio"
+subtitle: "A case study in intentional design decisions"
+
+sections:
+  - heading: "Problem"
+    body: "Most developer portfolios feel templated. Same layout, same animations, same structure. They show technical skill but not design thinking. I wanted a site that demonstrates both — and earns trust before a single conversation."
+
+  - heading: "Constraints"
+    items:
+      - "Must load instantly. No waiting, no loading screens."
+      - "Content-first. The work speaks — the UI stays quiet."
+      - "Works on every device. Not responsive as an afterthought."
+      - "Zero dependencies on external services at runtime."
+
+  - heading: "Eye Flow"
+    body: "Every section uses the same content width (max-w-4xl). The eye moves straight down without horizontal jumps. Section headers are understated labels — not visual anchors that compete with the content below them."
+
+  - heading: "Animation Philosophy"
+    body: "Animations serve one purpose: guiding attention. The hero reveals word by word so you read the headline, not skip it. Scroll-triggered reveals create a sense of pace. Nothing loops, nothing distracts. If you don't notice the animation, it worked."
+
+  - heading: "Typography"
+    body: "One typeface. Two weights. Three sizes. Hierarchy comes from spacing and color, not from stacking fonts. The muted foreground color does most of the heavy lifting — separating primary content from supporting context without visual noise."
+
+  - heading: "Dark Mode"
+    body: "Not inverted colors. A separate palette designed for low-light reading. Borders shift from black-alpha to white-alpha. Background goes near-black, not pure black — avoiding the harsh contrast that causes eye strain."
+
+  - heading: "Performance"
+    body: "Every page is statically rendered at build time. No client-side data fetching. No layout shifts. Content lives in YAML files validated by Zod schemas — the build fails if the data is wrong. The result: sub-second loads on any connection."
+
+  - heading: "What I'd Change"
+    body: "More real project imagery. Actual case studies for each project instead of summaries. A writing section — design thinking is easier to evaluate through long-form than through pixels."
+
+stack:
+  - label: "Framework"
+    value: "Next.js 15 · React 19 · App Router"
+  - label: "Styling"
+    value: "Tailwind CSS v4"
+  - label: "Animation"
+    value: "Motion v12"
+  - label: "Content"
+    value: "YAML + Zod validation"
+  - label: "Type safety"
+    value: "TypeScript strict"
+  - label: "Deploy"
+    value: "Static pre-render · Vercel-ready"

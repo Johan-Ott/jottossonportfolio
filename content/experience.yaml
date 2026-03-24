@@ -1,0 +1,45 @@
+- period: "Aug 2023–Present"
+  company: "Starbreeze Entertainment"
+  location: "Remote"
+  role: "UI Programmer & Product Owner"
+  description: "End-to-end UI on PAYDAY 3. From Feb 2024 also Product Owner."
+  tools: ["Unreal Engine", "C++", "Figma", "Jira", "Perforce"]
+  details: "Owned the full UI pipeline on PAYDAY 3 — from early wireframes in Figma through implementation in Unreal Engine's UMG framework. Built and maintained the main menu, loadout system, heist selection map, challenges screen, and social features. Transitioned into Product Owner in Feb 2024, running sprint planning, stakeholder alignment, and prioritization across a cross-functional team while still shipping code."
+  images:
+    - "/experience/pd3-main-menu.png"
+    - "/experience/pd3-play.png"
+    - "/experience/pd3-loadout.png"
+    - "/experience/pd3-heist-map.png"
+    - "/experience/pd3-challenges.png"
+
+- period: "Jan 2023–Jul 2023"
+  company: "MindArk (Entropia Universe)"
+  location: "Gothenburg — Hybrid"
+  role: "Gameplay Programmer"
+  description: "Designed and implemented a new UI for a live MMO."
+  tools: ["C++", "Unreal Engine", "ActionScript", "Perforce"]
+  details: "Redesigned core UI flows for Entropia Universe, a live MMO with a real-cash economy. Worked in a legacy C++ codebase with ActionScript-based UI, migrating key screens to a modern component architecture. Collaborated closely with design to reduce click depth and improve readability across inventory, trading, and navigation systems."
+
+- period: "Dec 2021–Dec 2022"
+  company: "Hiber"
+  location: "Gothenburg — Hybrid"
+  role: "Game & UI Developer"
+  description: "Building the metaverse with Web3 technology."
+  tools: ["C++", "JavaScript", "XAML", "WASM", "Git"]
+  details: "Developed UI and gameplay systems for Hiber's browser-based metaverse platform. Built cross-platform rendering components in C++ compiled to WASM, and authored interactive XAML-based UI for the web client. Focused on performance — keeping frame times under 16ms on mid-range hardware while rendering user-generated 3D environments."
+
+- period: "Jun 2020–Dec 2021"
+  company: "NetEnt"
+  location: "Gothenburg — Remote"
+  role: "Game Developer → Lead Game Developer"
+  description: "Shipped casino games on some of the world's largest IPs. Led team: interviews, technical direction, team management."
+  tools: ["HTML", "JavaScript", "TypeScript", "Git"]
+  details: "Shipped multiple high-profile casino titles using HTML5/Canvas, including branded IP collaborations. Promoted to Lead Developer — ran technical interviews, defined team coding standards, and managed sprint delivery. Focused on animation performance, accessibility compliance, and cross-browser consistency across 50+ target devices."
+
+- period: "Feb 2018–Jun 2020"
+  company: "IGT Sweden via Inpeople"
+  location: "Växjö"
+  role: "Game & System Developer"
+  description: "Built new standard for LAN-based casino games. Created games presented at ICE (international gaming expo)."
+  tools: ["C++", "C#", "Python", "Unity3D", "SVN"]
+  details: "Developed a new generation of LAN-based casino gaming cabinets. Built game logic in C++ with Unity3D rendering, and authored tooling in Python for automated QA and content pipelines. Presented two titles at ICE London — the industry's largest B2B gaming expo."

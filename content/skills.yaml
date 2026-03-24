@@ -1,0 +1,14 @@
+- category: "Design"
+  skills: ["Figma", "Photoshop", "UI/UX", "Prototyping"]
+
+- category: "Engines"
+  skills: ["Unreal Engine", "Unity", "Custom Engines"]
+
+- category: "Code"
+  skills: ["C++", "C#", "JavaScript", "TypeScript", "Python", "WASM"]
+
+- category: "Platforms"
+  skills: ["Web", "App", "Desktop", "Plugin Development"]
+
+- category: "Process"
+  skills: ["Scrum", "Jira", "Perforce", "Git", "Product Ownership"]
