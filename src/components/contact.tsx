@@ -8,8 +8,7 @@ import type { Contact } from "@/lib/schemas";
 import type { ComponentType, SVGProps } from "react";
 import { GithubIcon, LinkedinIcon } from "./icons";
 
-type IconComponent = ComponentType<SVGProps<SVGSVGElement>>;
-
+type IconComponent = ComponentType<SVGProps<SVGSVGElement>>
 const ICON_MAP: Record<string, IconComponent> = {
   mail: Mail,
   linkedin: LinkedinIcon,
@@ -124,7 +123,7 @@ export function ContactSection({ contact }: { contact: Contact }) {
           >
             <p>{contact.footer}</p>
             <motion.a
-              href="/case-study"
+              href="/jottossonportfolio/case-study"
               className="relative hover:text-foreground transition-colors duration-150"
               initial={{ opacity: 0, y: 5 }}
               whileInView={{ opacity: 1, y: 0 }}
