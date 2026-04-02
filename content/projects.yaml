@@ -1,31 +1,7 @@
-- title: "Adaptive UI Framework"
-  role: "Lead Designer & Developer"
-  description: "Real-time interface system for MMO with 2M+ active users"
+- title: "Lone Lodge Studios"
+  role: "Founder & Lead Developer"
+  description: "Independent game studio building Storyteller — a gamified interactive book platform"
   year: "2024"
-  tags: ["Figma", "TypeScript", "Unreal Engine"]
-  image: "/projects/adaptive-ui.jpg"
-  details: "Designed and implemented a real-time UI framework handling complex state across multiple game systems. Built a custom component library in Unreal Engine with hot-reloading support, reducing iteration time by 60%. The system serves 2M+ monthly active users across PC and console platforms."
-
-- title: "Plugin Ecosystem"
-  role: "Product Designer"
-  description: "Developer tools platform enabling 10K+ third-party extensions"
-  year: "2023"
-  tags: ["Web", "API Design", "Documentation"]
-  image: "/projects/plugin-ecosystem.jpg"
-  details: "Led product design for a plugin marketplace and SDK. Defined the API surface, authored developer documentation, and designed the review pipeline. The ecosystem grew to 10K+ extensions within the first year, with a 94% developer satisfaction score."
-
-- title: "Cross-Platform Design System"
-  role: "Design Lead"
-  description: "Unified component library across mobile, desktop, and web"
-  year: "2023"
-  tags: ["Figma", "React", "Unity"]
-  image: "/projects/design-system.jpg"
-  details: "Created a design system spanning three platforms with shared tokens, typography scales, and interaction patterns. Delivered as a Figma library with React and Unity implementations. Reduced design-to-dev handoff time by 40% and eliminated visual inconsistencies across platforms."
-
-- title: "Interactive Story Platform"
-  role: "UI/UX Designer"
-  description: "Narrative-driven interface for choice-based storytelling"
-  year: "2022"
-  tags: ["Prototyping", "Animation", "User Research"]
-  image: "/projects/story-platform.jpg"
-  details: "Designed the interaction model for a branching narrative platform. Conducted user research with 50+ participants to validate the UI patterns. Built high-fidelity prototypes with complex transition animations that maintained narrative immersion while keeping the interface navigable."
+  tags: ["Unity", "C#", "UI/UX", "Game Design"]
+  image: "/projects/lone-lodge.jpg"
+  details: "Founded Lone Lodge Studios to create Storyteller, a platform where readers experience books through immersive 3D environments, branching narratives, and interactive modules. Built a modular content engine in Unity 6 with 35+ reusable packages covering UI, audio, save systems, localisation, and more. Designed the full product vision spanning mobile, desktop, console, and web."
