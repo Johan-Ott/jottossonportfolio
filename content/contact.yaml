@@ -3,8 +3,8 @@ headline: "Let's build something that feels right."
 links:
   - icon: "mail"
     label: "Email"
-    value: "your.email@example.com"
-    href: "mailto:your.email@example.com"
+    value: "johan.lonelodge@gmail.com"
+    href: "mailto:johan.lonelodge@gmail.com"
 
   - icon: "linkedin"
     label: "LinkedIn"
@@ -13,8 +13,8 @@ links:
 
   - icon: "github"
     label: "GitHub"
-    value: "github.com/[your-handle]"
-    href: "https://github.com"
+    value: "github.com/Johan-Ott"
+    href: "https://github.com/Johan-Ott"
 
   - icon: "file-text"
     label: "Resume"
