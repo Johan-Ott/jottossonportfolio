@@ -19,6 +19,6 @@ links:
   - icon: "file-text"
     label: "Resume"
     value: "View CV"
-    href: "/cv"
+    href: "/jottossonportfolio/cv"
 
 footer: "© 2026 · Designed and built with care"
